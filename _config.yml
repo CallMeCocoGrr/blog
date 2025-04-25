@@ -1,4 +1,4 @@
-remote_theme: supun-io/jekyll-theme-forty
+remote_theme: sandrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-default-layout
