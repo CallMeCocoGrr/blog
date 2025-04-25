@@ -8,10 +8,10 @@ plugins:
   # - jekyll-relative-links
 
 theme_mode: dark
-title: [CthulhuCodesGames]
-iconURL: "cthulu.png"
+title: [Coco]
+iconURL: ""
 domain: my-site.github.io
-url: https://AlyceOsbourne.github.io
-baseUrl: /godot_blog/
+url: https://callmecocogrr.github.io
+baseUrl: /blog/
 social:
-  github: AlyceOsbourne
+  github: CallMeCocoGrr
