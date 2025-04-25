@@ -26,6 +26,16 @@ navbar-links:
   About Me: "aboutme"
 
 
+# --- Collections --- #
+# Uncomment the following section to enable collections. You can add any number of collections
+collections:
+  godot:
+    output: true
+    permalink: /godot/:title
+    title: Godot
+    icon: "fa-solid fa-gamepad"
+    #description: "A collection of my Godot projects."
+
 ################
 # --- Logo --- #
 ################

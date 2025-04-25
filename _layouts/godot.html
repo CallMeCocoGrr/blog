@@ -5,8 +5,7 @@ subtitle: My Journey with Game Development
 ---
 
 <div class="posts-list">
-  {% for post in site.posts %}
-    {% if post.tags contains 'godot' %}
+  {% for post in site.godot %}
     <article class="post-preview">
       <a href="{{ post.url | relative_url }}">
         <h2 class="post-title">{{ post.title }}</h2>
@@ -32,6 +31,5 @@ subtitle: My Journey with Game Development
         Posted on {{ post.date | date: "%B %-d, %Y" }}
       </div>
     </article>
-    {% endif %}
   {% endfor %}
 </div>
