@@ -1,4 +1,4 @@
-remote_theme: sandrewbanchich/forty-jekyll-theme
+remote_theme: andrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-default-layout
