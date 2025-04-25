@@ -22,10 +22,7 @@ author: Coco
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Youtube: "https://www.youtube.com/@CallMeCocoGrr"
-    - BlueSky: "https://bsky.app/profile/callmecoco.bsky.social"
-    - Itchio: "https://callmecocogrr.itch.io/"
-    - Github: "https://github.com/CallMeCocoGrr"
+
 
 ################
 # --- Logo --- #
@@ -33,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "kiti.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,14 +48,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: "@CallMeCocoGrr"
+  github: CallMeCocoGrr
+  bluesky: callmecoco.bsky.social
+  itchio: CallMeCocoGrr
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,15 +89,15 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "CallMeCocoGrr.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -130,6 +124,7 @@ navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
+keywords: "CallMeCoco, Coco, CallMeCocoGrr, CallMeCocoGrr.com, CallMeCocoGrr.github.io, CallMeCocoGrr.github.io/CallMeCocoGrr.github.io"
 
 ######################################
 # --- Colours / background image --- #
@@ -261,7 +256,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Greece/Athens"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
