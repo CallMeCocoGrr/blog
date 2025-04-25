@@ -1,4 +1,4 @@
-remote_theme: supun-io/jekyll-theme-leaf
+remote_theme: supun-io/jekyll-theme-forty
 plugins:
   - jekyll-remote-theme
   - jekyll-default-layout
@@ -8,7 +8,7 @@ plugins:
   # - jekyll-relative-links
 
 theme_mode: dark
-title: [Coco]
+title: Coco
 iconURL: ""
 domain: my-site.github.io
 url: https://callmecocogrr.github.io
