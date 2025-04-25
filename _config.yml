@@ -21,7 +21,7 @@ author: Coco
 
 navbar-links:
   Resources:
-    - Godot: "/godot"
+    - Godot: "godot"
 
   About Me: "aboutme"
 
