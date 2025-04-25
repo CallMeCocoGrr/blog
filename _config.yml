@@ -1,0 +1,17 @@
+remote_theme: supun-io/jekyll-theme-leaf
+plugins:
+  - jekyll-remote-theme
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  # - jekyll-relative-links
+
+theme_mode: dark
+title: [CthulhuCodesGames]
+iconURL: "cthulu.png"
+domain: my-site.github.io
+url: https://AlyceOsbourne.github.io
+baseUrl: /godot_blog/
+social:
+  github: AlyceOsbourne
