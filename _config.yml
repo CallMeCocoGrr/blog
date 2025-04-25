@@ -9,7 +9,7 @@ plugins:
 
 theme_mode: dark
 title: Coco
-iconURL: ""
+iconURL: "kiti.png"
 domain: my-site.github.io
 url: https://callmecocogrr.github.io
 baseUrl: /blog/
