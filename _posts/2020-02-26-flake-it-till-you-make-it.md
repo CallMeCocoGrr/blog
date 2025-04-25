@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: The Undeniable Charm of Cats
+subtitle: Why Cats are Supa Cute
+cover-img: /assets/img/cats.jpg
+thumbnail-img: /assets/img/cat-thumb.jpg
+share-img: /assets/img/cats.jpg
+tags: [cats, pets]
+author: Coco
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+There's something magical about cats that has captivated humans for thousands of years. From their gentle purrs to their playful antics, these fascinating creatures have mastered the art of being simultaneously majestic and adorably silly.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Consider my, I mean their perfect little paws, carefully stepping through life with natural grace. Or those expressive eyes, dilating into perfect circles when they spot something interesting - usually a toy mouse or an unsuspecting dust particle dancing in a sunbeam.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+What makes cats truly special is their unique combination of independence and affection. One moment they're fierce hunters, stalking imaginary prey across your living room, and the next they're curled up in your lap, purring contentedly as if that's all they ever wanted to do.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Their quirky behaviors never fail to bring joy - from the mysterious "zoomies" at 3 AM to the peculiar fascination with cardboard boxes. No matter how expensive the cat bed you buy, nothing quite compares to an empty Amazon box in a cat's discerning eyes.
+
+Perhaps the most endearing quality of cats is their ability to make any space feel like home. Whether they're claiming your favorite chair, helping you "organize" your desk by knocking things off it, or simply blessing you with their presence while you work, cats have an extraordinary talent for making everyday moments special.
+
+In a world that often moves too fast, our feline friends remind us to take breaks, appreciate the simple pleasures, and sometimes just bask in the warmth of a sunbeam. After all, who couldn't learn a thing or two about living life to the fullest from these purring masters of contentment?
