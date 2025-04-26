@@ -17,9 +17,10 @@ This cool little function comes originally through a friend on discord (MissArti
 static func build_collider_poly_from_sprite(sprite: Image):
 	var bitmap = BitMap.new()
 	bitmap.create_from_image_alpha(sprite)
+
+	# The "2" parameter controls how precise the shape is (smaller is more accurate)
+	var polys = bitmap.opaque_to_polygons(sprite.get_used_rect(), 2)
 	
-	var polys = bitmap.opaque_to_polygons(sprite.get_used_rect(), 2) # The "2" parameter controls how precise the shape 
-                                                                     # is (smaller is more accurate)
 	var shapes = []
 	for poly in polys:
 		var collider = CollisionShape2D.new()
