@@ -6,7 +6,7 @@ subtitle: A different approach to setting collisions
 #thumbnail-img: /assets/img/cat-thumb.jpg
 #share-img: /assets/img/cats.jpg
 #tags:
-author: Coco
+#author: Coco
 ---
 
 As many of you know the typical way to set collision shapes is to add a CollisionShape2D node to a scene and then through the editor you configure a shape that more or less fits your sprite, what if I told you there is a way assign pixel perfect collisions to your sprites without doing it manually.
