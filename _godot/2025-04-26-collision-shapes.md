@@ -6,7 +6,7 @@ subtitle: A different approach to setting collisions
 #thumbnail-img: /assets/img/cat-thumb.jpg
 #share-img: /assets/img/cats.jpg
 #tags:
-#author: Coco
+author: Coco
 ---
 
 As many of you know the typical way to set collision shapes is to add a CollisionShape2D node to a scene and then through the editor you configure a shape that more or less fits your sprite, what if I told you there is a way assign pixel perfect collisions to your sprites without doing it manually.
@@ -20,7 +20,7 @@ static func build_collider_poly_from_sprite(sprite: Image):
 
 	# The "2" parameter controls how precise the shape is (smaller is more accurate)
 	var polys = bitmap.opaque_to_polygons(sprite.get_used_rect(), 2)
-	
+
 	var shapes = []
 	for poly in polys:
 		var collider = CollisionShape2D.new()
