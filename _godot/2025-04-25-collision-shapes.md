@@ -50,7 +50,7 @@ One last thing is that to have the collision properly assigned on top of the spr
 
 ![alt text](../assets/img/sprite2dcenteredoff.png)
 
----
+
 
 Why it's useful:
 
