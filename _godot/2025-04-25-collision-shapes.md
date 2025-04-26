@@ -44,7 +44,7 @@ func _ready() -> void:
 		shape.scale = sprite.scale
 ```
 
-Since it is a static function you can have it inside a Utilities class script and simply invoke it like this in any node in the project, lastly you have a ```shape.position = sprite.position``` and ```shape.scale = sprite.scale``` make sure your collision shape is perfectly centered and also follows your sprites scaling. 
+Since it is a static function you can have it inside a Utilities class script and simply invoke it like this in any node in the project, lastly you have a ```shape.position = sprite.position``` and ```shape.scale = sprite.scale``` making sure your collision shape is perfectly centered and also follows your sprites scaling. 
 
 One last thing is that to have the collision properly assigned on top of the sprite you must disable the Centered property in your sprite.
 
