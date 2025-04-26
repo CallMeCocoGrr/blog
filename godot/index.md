@@ -15,6 +15,6 @@ subtitle: Welcome to Coco's Game Development corner
   <div class="post-entry">
     {{ post.excerpt | strip_html | truncatewords: 50 }}
   </div>
-  <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+  <!-- <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p> -->
 </article>
 {% endfor %}
