@@ -6,7 +6,7 @@ subtitle: Why Cats are Supa Cute
 #thumbnail-img: /assets/img/cat-thumb.jpg
 #share-img: /assets/img/cats.jpg
 #tags: [cats]
-#author: Coco
+author: Coco
 ---
 
 There's something magical about cats that has captivated humans for thousands of years. From their gentle purrs to their playful antics, these fascinating creatures have mastered the art of being simultaneously majestic and adorably silly.
