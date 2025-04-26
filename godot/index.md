@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Godot Development
-subtitle: My Game Development Journey
+subtitle: Welcome to Coco's Game Development corner
 ---
 
 {% for post in site.godot %}
