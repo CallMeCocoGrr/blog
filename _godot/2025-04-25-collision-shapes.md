@@ -31,7 +31,7 @@ static func build_collider_poly_from_sprite(sprite: Image):
 	return shapes
 ```
 
-Simple explained this function takes an image, then detects all the non-transparent pixels and creates one or more polygon shapes that wrap around those visible pixels and then returns an array of collision shapes, let's look into how you can now give this collision shape to an object.
+Simply explained this function takes an image, then detects all the non-transparent pixels and creates one or more polygon shapes that wrap around those visible pixels and then returns an array of collision shapes, let's look into how you can now give this collision shape to an object.
 
 ```
 func _ready() -> void:
