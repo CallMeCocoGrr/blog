@@ -15,6 +15,10 @@ title: CallMeCoco
 # Your name to show in the footer
 author: Coco
 
+#--- favicon options ---#
+favicon: true
+favicon-location: "/assets/img/favicon.png" # location of the favicon file
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
