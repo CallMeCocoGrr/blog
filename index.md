@@ -9,4 +9,4 @@ Hello, I'm Coco, I am a Software Engineer and a Game Dev enthusiast with a focus
 
 In this website, I will be sharing resources on game development, programming, pixel art, and other related topics that I find interesting. 
 
-Check out the Resources for new content and updates.
+Check out the Resources in the navigation bar for new content and updates.
