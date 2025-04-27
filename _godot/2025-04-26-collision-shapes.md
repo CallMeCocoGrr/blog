@@ -9,7 +9,7 @@ subtitle: A different approach to setting collisions
 author: Coco
 ---
 
-As many of you know the typical way to set collision shapes is to add a CollisionShape2D node to a scene and then through the editor you configure a shape that more or less fits your sprite, what if I told you there is a way assign pixel perfect collisions to your sprites without doing it manually.
+Many of you know the typical way to set collision shapes is to add a CollisionShape2D node to a scene and then through the editor you configure a shape that more or less fits your sprite, what if I told you there is a way to assign pixel perfect collisions to your sprites without doing it manually.
 
 This cool little function comes originally through a friend on discord (MissArticulatePython) and I have only slightly adjusted it.
 
@@ -45,7 +45,7 @@ func _ready() -> void:
 		shape.scale = sprite.scale
 ```
 
-Since it is a static function you can have it inside a Utilities class script and simply invoke it like this in any node in the project, lastly you have a ```shape.position = sprite.position``` and ```shape.scale = sprite.scale``` making sure your collision shape is perfectly centered and also follows your sprites scaling. 
+Since it is a static function you can have it inside a Utilities class script and simply invoke it like this in any node in the project, ```shape.position = sprite.position``` and ```shape.scale = sprite.scale``` make sure your collision shape is perfectly centered and also follows your sprites scaling. 
 
 One last thing is that to have the collision properly assigned on top of the sprite you must disable the Centered property in your sprite.
 
