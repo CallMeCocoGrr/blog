@@ -9,7 +9,7 @@ subtitle: An effective way to spruce up your game
 author: Coco
 ---
 
-Screen shake is one of those subtle yet powerful game design elements that can enhance player experience. When implemented, it adds a visceral weight to actions, making abilities feel more powerful, impacts more satisfying, and dramatic moments more intense. This simple visual technique often gets overlooked while being extremely simple and easy to add.
+Screen shake is one of those subtle yet powerful game design elements that can enhance player experience. It adds a visceral weight to actions, making abilities feel more powerful, impacts more satisfying, and dramatic moments more intense. This simple visual technique often gets overlooked while being extremely simple and easy to add.
 
 Here's how we can implement this effect in Godot.
 
