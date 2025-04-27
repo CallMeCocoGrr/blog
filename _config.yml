@@ -17,7 +17,7 @@ author: Coco
 
 #--- favicon options ---#
 favicon: true
-favicon-location: "/assets/img/favicon.png" # location of the favicon file
+favicon-location: "/assets/img/favicon.ico" # location of the favicon file
 
 ###############################################
 # --- List of links in the navigation bar --- #
