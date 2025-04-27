@@ -271,6 +271,16 @@ paginate: 5
 
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: true
+      start_line: 1
+
+highlight-col: "2d2d2d" # Dark background for code blocks
+highlight-text-col: "e6e6e6" # Light text for code blocks
+highlight-border-col: "404040" # Dark border for code blocks
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
