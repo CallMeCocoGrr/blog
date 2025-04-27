@@ -13,7 +13,7 @@ As many of you know the typical way to set collision shapes is to add a Collisio
 
 This cool little function comes originally through a friend on discord (MissArticulatePython) and I have only slightly adjusted it.
 
-```
+```swift
 static func build_collider_poly_from_sprite(sprite: Image):
 	var bitmap = BitMap.new()
 	bitmap.create_from_image_alpha(sprite)
@@ -34,7 +34,7 @@ static func build_collider_poly_from_sprite(sprite: Image):
 
 Simply explained this function takes an image, then detects all the non-transparent pixels and creates one or more polygon shapes that wrap around those visible pixels and then returns an array of collision shapes, let's look into how you can now give this collision shape to an object.
 
-```
+```swift
 func _ready() -> void:
 	var collision_shapes = Utilities.build_collider_poly_from_sprite(sprite.texture.get_image())
 
