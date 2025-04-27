@@ -62,7 +62,7 @@ Alright this may seem scary at first but let's understand what is going on here.
 
 Inside that function we finally invoke the ```apply_screen_shake``` which in turn passes the transmitted intensity and duration into the local variables ```shake_intensity```,```shake_decay``` and creates a timer that resets the intensity to 0 when it runs out.
 
-In ```_process``` we handle the actual shaking effect by checking the ```shake_intensity``` parameter every frame when it's higher than 0 it means we requested a screen shake so then it moves on to randomly offsetting the camera creating that shake effect while it gradually reduces the intensity over time using ```lerp``` 
+In ```_process``` we handle the actual shaking effect by checking the ```shake_intensity``` parameter every frame, when it's higher than 0 it means we requested a screen shake so then it moves on to randomly offsetting the camera creating that shake effect while it gradually reduces the intensity over time using ```lerp``` 
 
 And there you have it, now you can test it out like this.
 
