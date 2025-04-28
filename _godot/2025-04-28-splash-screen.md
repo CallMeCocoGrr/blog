@@ -15,7 +15,7 @@ Add a control node name it something like SplashScreen then you want a ColorRect
 
 Then in a CenterContainer node you can add as many TextureRect nodes as you want, assign the images in the order you want them playing on the screen.
 
-Finally attach a script to your scene root, save the scene and let's get started
+Finally attach a script to your scene root, save the scene and let's get started.
 
 ```
 #splash_screen.gd
@@ -81,7 +81,7 @@ This is pretty straightforward but let's go through each function, ```get_screen
 
 Now ```show_next_screen``` is where all the magic happens, first we check if there is an active tween and then have it stop playing, then we make the ```current_screen``` invisible if we are skipping to the next one, we only call this function when we want to move to the next screen this is basically how the user will skip through the images if they want to.
 
-After incrementing the ```current_screen_index``` which tracks which scene is playing, we move on to our little tweens which just modify the image Alpha channel gradually creating a nice transition effect when the image enters and leave the screen, and when there is no images left we call ```load_next_scene```.
+After incrementing the ```current_screen_index``` which tracks which scene is playing, we move on to our little tweens which modify the image Alpha channel gradually and add a little pause between one creating a nice transition effect and when there is no images left we call ```load_next_scene```.
 
 ```load_next_scene``` just changes the scene to whatever you want to load when the splash screens end, typically you would load into a main menu for example.
 
