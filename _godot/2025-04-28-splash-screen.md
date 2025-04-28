@@ -9,7 +9,7 @@ A splash screen is a brief visual displayed when a game or application first loa
 
 Here is how we can make a splash screen.
 
-![alt text](image.png)
+![alt text](../assets/img/splashscreen.png)
 
 Add a control node name it something like SplashScreen then you want a ColorRect node that will serve as a solid color background when the images fade in and out of the screen.
 
