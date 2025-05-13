@@ -52,6 +52,9 @@ function loadGame(containerId, gameId) {
 
 ### [Sanctum]
 <div class="game-container">
+
+<button id="button-sanctum" class="load-button" onclick="loadGame('sanctum', '[YOUR-GAME-ID]')">Run Game</button>
+
 <iframe frameborder="0" src="https://itch.io/embed-upload/13665764?color=000000" allowfullscreen="" width="1280" height="740"><a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a></iframe>
 </div>
 
@@ -67,6 +70,9 @@ Their god is just another beast to slay.
 
 ### [Breach Zero]
 <div class="game-container">
+
+<button id="button-sanctum" class="load-button" onclick="loadGame('sanctum', '[YOUR-GAME-ID]')">Run Game</button>
+
 <iframe frameborder="0" src="https://itch.io/embed-upload/12810672?color=037fa8" allowfullscreen="" width="900" height="620"><a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a></iframe>
 </div>
 
