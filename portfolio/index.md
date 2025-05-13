@@ -8,17 +8,18 @@ title: Game Portfolio
 
 <script>
 function loadGame(containerId, gameId) {
-    document.getElementById('button-' + containerId).style.display = 'none';
-    document.getElementById(containerId).style.display = 'block';
+    const button = document.getElementById('button-' + containerId);
+    const frame = document.getElementById(containerId);
+    button.style.display = 'none';
+    frame.src = `https://itch.io/embed-upload/${gameId}?color=000000`;
+    frame.style.display = 'block';
 }
 </script>
-
 
 ### [Sanctum]
 <div class="game-container">
     <button id="button-sanctum" class="load-button" onclick="loadGame('sanctum', '13665764')">Run Game</button>
     <iframe id="sanctum" class="game-frame" frameborder="0" 
-            src="https://itch.io/embed-upload/13665764?color=000000" 
             allowfullscreen="">
         <a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a>
     </iframe>
@@ -38,8 +39,7 @@ Their god is just another beast to slay.
 <div class="game-container">
     <button id="button-breachzero" class="load-button" onclick="loadGame('breachzero', '12810672')">Run Game</button>
     <iframe id="breachzero" class="game-frame" frameborder="0" 
-        src="https://itch.io/embed-upload/12810672?color=037fa8" 
-        allowfullscreen="">
+            allowfullscreen="">
         <a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a>
     </iframe>
 </div>
