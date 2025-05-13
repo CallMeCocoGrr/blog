@@ -7,39 +7,44 @@ title: Game Portfolio
 ## Featured Games
 
 <style>
-.game-container {
-    display: flex;
-    flex-direction: column;  /* Change to column to stack button and game vertically */
-    justify-content: center;
-    align-items: center;
-    margin: 20px auto;  /* Center the container */
-    width: 100%;
-    max-width: 800px;  /* Adjust this value to control maximum width */
+.page-content .game-container {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 20px auto !important;
+    width: 100% !important;
+    max-width: 800px !important;
+    position: relative !important;
 }
 
-.game-frame {
-    aspect-ratio: 16/9;
-    width: 100%;
-    height: 600px;     /* Set a fixed height */
-    border: none;
-    display: none;
-    margin: 0 auto;    /* Center the frame */
+.page-content .game-frame {
+    aspect-ratio: 16/9 !important;
+    width: 100% !important;
+    height: 600px !important;
+    border: none !important;
+    display: none !important;
+    margin: 0 auto !important;
+    position: relative !important;
+    z-index: 1 !important;
 }
 
-.load-button {
-    padding: 10px 20px;
-    background-color: #66b3ff;
-    color: #1a1a1a;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-    margin: 10px 0;
-    align-self: center;  /* Center the button */
+.page-content .load-button {
+    padding: 10px 20px !important;
+    background-color: #66b3ff !important;
+    color: #1a1a1a !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    font-size: 16px !important;
+    margin: 10px 0 !important;
+    align-self: center !important;
+    position: relative !important;
+    z-index: 2 !important;
 }
 
-.load-button:hover {
-    background-color: #99ccff;
+.page-content .load-button:hover {
+    background-color: #99ccff !important;
 }
 </style>
 
