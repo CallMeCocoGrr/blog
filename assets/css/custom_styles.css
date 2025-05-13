@@ -4,15 +4,17 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    max-width: 960px;
+    max-width: 1280px;  /* Increased from default */
     margin: 2rem auto;
   }
   
   .page-content .game-frame {
     width: 100%;
+    min-height: 740px;  /* Added minimum height */
     aspect-ratio: 16/9;
     border: none;
     display: none;
+    background: #000;
   }
   
   .page-content .load-button {
