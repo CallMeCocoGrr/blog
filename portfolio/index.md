@@ -21,7 +21,9 @@ subtitle: Game I have worked on
 </style>
 
 ### [Sanctum]
+<div class="game-container">
 <iframe frameborder="0" src="https://itch.io/embed-upload/13665764?color=000000" allowfullscreen="" width="1280" height="740"><a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a></iframe>
+</div>
 
 The cathedral was built on your sacred ground, its stones laid over ancient altars, its hymns drowning out the old rites. 
 
