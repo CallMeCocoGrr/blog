@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Portfolio
-subtitle: Game I have worked on
+#subtitle: Game I have worked on
 ---
 
 ## Featured Games
