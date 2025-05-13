@@ -27,6 +27,7 @@ navbar-links:
   Resources:
     - Godot: "godot"
 
+  Portfolio: "portfolio"
   About Me: "aboutme"
 
 
