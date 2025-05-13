@@ -6,6 +6,20 @@ subtitle: Game I have worked on
 
 ## Featured Games
 
+<style>
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.game-frame {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+
 ### [Sanctum]
 <iframe frameborder="0" src="https://itch.io/embed-upload/13665764?color=000000" allowfullscreen="" width="1280" height="740"><a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a></iframe>
 
