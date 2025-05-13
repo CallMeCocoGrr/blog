@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Portfolio
-#subtitle: Game I have worked on
+
 ---
 
 ## Featured Games
@@ -25,13 +25,13 @@ function loadGame(containerId, gameId) {
     </iframe>
 </div>
 
-The cathedral was built on your sacred ground, its stones laid over ancient altars, its hymns drowning out the old rites. 
-
-Writhing inside are only, divine parasites that twisted the very air.
-
-Now the Last Penitent comes, a blind zealot armed with the very corruption they call faith. Let them try to stop you from reclaiming your land. 
-
-Their god is just another beast to slay.
+> The cathedral was built on your sacred ground, its stones laid over ancient altars, its hymns drowning out the old rites. 
+>
+> Writhing inside are only, divine parasites that twisted the very air.
+>
+> Now the Last Penitent comes, a blind zealot armed with the very corruption they call faith. Let them try to stop you from reclaiming your land. 
+>
+> Their god is just another beast to slay.
 
 ---
 
@@ -44,10 +44,10 @@ Their god is just another beast to slay.
     </iframe>
 </div>
 
-You wake up in a top secret underground bio weapon laboratory, the alarm is blaring.
-
-There is blood and death everywhere, and the experiment containment tubes are shattered!
-
-Time is ticking relentlessly and the fate of the world might depend on you as you discover the dark secret lurking inside.
+> You wake up in a top secret underground bio weapon laboratory, the alarm is blaring.
+>
+> There is blood and death everywhere, and the experiment containment tubes are shattered!
+>
+> Time is ticking relentlessly and the fate of the world might depend on you as you discover the dark secret lurking inside.
 
 ---
