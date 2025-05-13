@@ -6,48 +6,6 @@ title: Game Portfolio
 
 ## Featured Games
 
-<style>
-.page-content .game-container {
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-    align-items: center !important;
-    margin: 20px auto !important;
-    width: 100% !important;
-    max-width: 800px !important;
-    position: relative !important;
-}
-
-.page-content .game-frame {
-    aspect-ratio: 16/9 !important;
-    width: 100% !important;
-    height: 600px !important;
-    border: none !important;
-    display: none !important;
-    margin: 0 auto !important;
-    position: relative !important;
-    z-index: 1 !important;
-}
-
-.page-content .load-button {
-    padding: 10px 20px !important;
-    background-color: #66b3ff !important;
-    color: #1a1a1a !important;
-    border: none !important;
-    border-radius: 4px !important;
-    cursor: pointer !important;
-    font-size: 16px !important;
-    margin: 10px 0 !important;
-    align-self: center !important;
-    position: relative !important;
-    z-index: 2 !important;
-}
-
-.page-content .load-button:hover {
-    background-color: #99ccff !important;
-}
-</style>
-
 <script>
 function loadGame(containerId, gameId) {
     document.getElementById('button-' + containerId).style.display = 'none';
@@ -82,7 +40,7 @@ Their god is just another beast to slay.
     <iframe id="breachzero" class="game-frame" frameborder="0" 
         src="https://itch.io/embed-upload/12810672?color=037fa8" 
         allowfullscreen="">
-    <a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a>
+        <a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a>
     </iframe>
 </div>
 
