@@ -23,8 +23,32 @@ title: Game Portfolio
     width: 100%;
     height: 100%;
     border: none;
+    display: none;
+}
+
+.load-button {
+    padding: 10px 20px;
+    background-color: #66b3ff;
+    color: #1a1a1a;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.load-button:hover {
+    background-color: #99ccff;
 }
 </style>
+
+<script>
+function loadGame(containerId, gameId) {
+    document.getElementById('button-' + containerId).style.display = 'none';
+    document.getElementById(containerId).style.display = 'block';
+}
+</script>
+
 
 ### [Sanctum]
 <div class="game-container">
