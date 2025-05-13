@@ -9,21 +9,21 @@ title: Game Portfolio
 <style>
 .game-container {
     display: flex;
+    flex-direction: column;  /* Change to column to stack button and game vertically */
     justify-content: center;
     align-items: center;
-    margin: 20px 0;
+    margin: 20px auto;  /* Center the container */
     width: 100%;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 800px;  /* Adjust this value to control maximum width */
 }
 
 .game-frame {
     aspect-ratio: 16/9;
     width: 100%;
-    height: 100%;
+    height: 600px;     /* Set a fixed height */
     border: none;
     display: none;
+    margin: 0 auto;    /* Center the frame */
 }
 
 .load-button {
@@ -35,6 +35,7 @@ title: Game Portfolio
     cursor: pointer;
     font-size: 16px;
     margin: 10px 0;
+    align-self: center;  /* Center the button */
 }
 
 .load-button:hover {
