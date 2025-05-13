@@ -52,10 +52,8 @@ function loadGame(containerId, gameId) {
 
 ### [Sanctum]
 <div class="game-container">
-
 <button id="button-sanctum" class="load-button" onclick="loadGame('sanctum', '13665764')">Run Game</button>
-
-<iframe id="sanctum" frameborder="0" src="https://itch.io/embed-upload/13665764?color=000000" allowfullscreen=""><a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a></iframe>
+<iframe id="sanctum" class="game-frame" frameborder="0" src="https://itch.io/embed-upload/13665764?color=000000" allowfullscreen=""><a href="https://trev3lyan.itch.io/sanctum">Play Sanctum on itch.io</a></iframe>
 </div>
 
 The cathedral was built on your sacred ground, its stones laid over ancient altars, its hymns drowning out the old rites. 
@@ -70,10 +68,8 @@ Their god is just another beast to slay.
 
 ### [Breach Zero]
 <div class="game-container">
-
 <button id="button-breachzero" class="load-button" onclick="loadGame('breachzero', '12810672')">Run Game</button>
-
-<iframe id="breachzero" frameborder="0" src="https://itch.io/embed-upload/12810672?color=037fa8" allowfullscreen=""><a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a></iframe>
+<iframe id="breachzero" class="game-frame" frameborder="0" src="https://itch.io/embed-upload/12810672?color=037fa8" allowfullscreen=""><a href="https://finbox-entertainment.itch.io/breach-zero">Play Breach Zero on itch.io</a></iframe>
 </div>
 
 You wake up in a top secret underground bio weapon laboratory, the alarm is blaring.
